@@ -48,7 +48,7 @@
 
 			}
 				} else {
-					echo "Digite um número";
+					echo "<p> Digite um número</p>";
 				}
 				
 			
